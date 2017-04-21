@@ -2,9 +2,10 @@
 
 The DevMountain Tracker is used...
 
-![loginpage](/READMEimg/loginpage.png)
+![loginpage](loginpage.png)
+
+Using the DevMountain Passport you are able to login...
 
 
 
-
-![cohortMiddle](/READMEimg/cohortMiddle.png)
+![cohortMiddle](cohortMiddle.png)
