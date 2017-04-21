@@ -1,6 +1,6 @@
 # DevMountain Tracker
 
-###### The DevMountain Tracker is used...
+The DevMountain Tracker is used...
 
 ![loginpage](/READMEimg/loginpage.png)
 
