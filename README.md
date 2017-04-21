@@ -1,16 +1,10 @@
 # DevMountain Tracker
 
-###### 
+###### The DevMountain Tracker is used...
 
-## Introduction
-
-
+![loginpage](/READMEimg/loginpage.png)
 
 
-![loginpage](loginpage.png)
 
 
-![homePage](homePage.png)
-
-
-![cohortMiddle](/img/cohortMiddle.png)
+![cohortMiddle](/READMEimg/cohortMiddle.png)
