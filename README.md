@@ -1,6 +1,8 @@
-# DevMountain Tracker - StatsDashboard
+# DevMountain Tracker
 
-# Introduction
+###### 
+
+## Introduction
 
 
 
@@ -10,4 +12,5 @@
 
 ![homePage](homePage.png)
 
-![cohortMiddle](cohortMiddle.png)
+
+![cohortMiddle](/img/cohortMiddle.png)
