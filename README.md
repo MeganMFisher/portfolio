@@ -1,3 +1,3 @@
 # portfolio
 
-![loginpage](loginpage.png.png)
+![loginpage](loginpage.png)
